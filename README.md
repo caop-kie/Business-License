@@ -1,5 +1,3 @@
-# New version release：https://github.com/oh-my-ocr/text_renderer
-
 # Text Renderer
 Generate text images for training deep learning document KIE model.
 Support both latin and non-latin text.
@@ -13,7 +11,7 @@ Install dependencies:
 pip3 install -r requirements.txt
 ```
 
-# Synthesize
+# Synthesize Business Licenses
 ```
 python main.py
 ```
